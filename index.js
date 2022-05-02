@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-console.log('lol');
-=======
 console.log('hello');
->>>>>>> myTest
+
+// after a c
